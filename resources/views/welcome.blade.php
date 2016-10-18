@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <title>Account Kit (Laravel)</title>
     <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,300,600' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ load_asset('css/normalize.css') }}">
-    <link rel="stylesheet" href="{{ load_asset('css/style.css') }}">
+    <link rel="stylesheet" href="http://laravel-accountkit.herokuapp.com/css/normalize.css">
+    <link rel="stylesheet" href="http://laravel-accountkit.herokuapp.com/css/style.css">
 </head>
 
 <body>
