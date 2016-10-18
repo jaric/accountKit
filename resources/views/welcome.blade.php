@@ -57,7 +57,7 @@
     </div>
     <!-- /form -->
     <script src="js/ack.js"></script>
-    <script type="text/javascript" src="https://sdk.accountkit.com/en_US/sdk.js"></script>
+    <script type="text/javascript" src="https://sdk.accountkit.com/zh_TW/sdk.js"></script>
     <script src='js/jquery.min.js'></script>
     <script src="js/index.js"></script>
 </body>
