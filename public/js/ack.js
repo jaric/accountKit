@@ -2,7 +2,7 @@ AccountKit_OnInteractive = function() {
   AccountKit.init({
     appId: '1046209945425594',
     state: document.getElementById('_token').value,
-    version: 'v1.1'
+    version: 'v1.0'
   });
 };
 
